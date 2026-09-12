@@ -240,4 +240,4 @@ This repository serves as the official landing page for ratDVD. The software is 
 **Get the most recent version of ratDVD today!**
 
 ---
-**Last updated:** 2026-09-12 05:28:25 UTC
+**Last updated:** 2026-09-12 10:13:27 UTC
